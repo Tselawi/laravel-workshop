@@ -33,8 +33,8 @@
 
 ## Set your envoirment first:
 
-- [ Installing by Docker](content/01.docker.md)
-- [ Installing by XAMPP](content/02.xampp.md)
+- [ Installing by Docker](content/docker/01.docker.md)
+- [ Installing by XAMPP](content/xampp/02.xampp.md)
 
 ## Author
 

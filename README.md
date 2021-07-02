@@ -1,11 +1,40 @@
-<h1 align="center">Welcome to laravel-workshop 👋</h1>
+<h1 align="center">Welcome to Laravel-workshop 👋</h1>
 <p>
   <a href="https://laravel.com/" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    <img alt="Laravel docs" src="https://img.shields.io/badge/laravel-php-red.svg" />
+  </a>
+  <a href="https://getcomposer.org/download/" target="_blank">
+    <img alt="composer docs" src="https://img.shields.io/badge/composer-yes-green.svg" />
+  </a>
+  <a href="https://docker.com" target="_blank">
+    <img alt="docker docs" src="https://img.shields.io/badge/Docker-yes-blue.svg" />
+  </a>
+  <a href="https://xammp.com" target="_blank">
+    <img alt="docker docs" src="https://img.shields.io/badge/xampp-yes-orange.svg" />
+  </a>
+  <a href="https://xammp.com" target="_blank">
+    <img alt="docker docs" src="https://img.shields.io/badge/node-npm-red.svg" />
   </a>
 </p>
 
-> Doing a brief about php framwork (Laravel) (MVC)!
+> A brief about php framwork (Laravel V8) (MVC)!
+
+## List to do in this workshop
+- Showing how to install composer.
+- Showing how to install the Php framwork `Laravel`.
+- Running the project in `Laravel`.
+- Creating first routes.
+- Doing the backend connention weather in `XAMMP` or `Docker`.
+- Migrate the database.
+- Creating Models and Controller.
+- How to compile the Scss, tailwindcss, react or bootstrap.
+
+***
+
+## Set your envoirment first:
+
+- [ Installing by Docker](content/01.docker.md)
+- [ Installing by XAMPP](content/02.xampp.md)
 
 ## Author
 
@@ -17,9 +46,4 @@
 
 Give a ⭐️ if this project helped you!
 
-<a href="https://www.patreon.com/BlackUmrella">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

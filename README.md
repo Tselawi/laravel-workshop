@@ -7,13 +7,10 @@
     <img alt="composer docs" src="https://img.shields.io/badge/composer-yes-green.svg" />
   </a>
   <a href="https://docker.com" target="_blank">
-    <img alt="docker docs" src="https://img.shields.io/badge/Docker-yes-blue.svg" />
+    <img alt="docker docs" src="https://img.shields.io/badge/Docker build-automated-blue.svg" />
   </a>
   <a href="https://xammp.com" target="_blank">
     <img alt="docker docs" src="https://img.shields.io/badge/xampp-yes-orange.svg" />
-  </a>
-  <a href="https://xammp.com" target="_blank">
-    <img alt="docker docs" src="https://img.shields.io/badge/node-npm-red.svg" />
   </a>
 </p>
 
